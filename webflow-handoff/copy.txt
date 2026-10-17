@@ -1,0 +1,75 @@
+MEDRIXX copy deck — paste into Webflow
+
+HOME
+Kicker: Independent Representation / Modern Medical Science
+Headline: SCIENCE, Selected.
+Hero: Curated access to exosomes, stem cell and tissue science, peptides, and medical devices for discerning practices.
+CTAs: Explore portfolio / Private consultation
+Foot: MEDRIXX / Professional Portfolio
+
+Portfolio kicker: The Portfolio
+Portfolio headline: Four disciplines. One standard.
+Portfolio body: Independent representation with direct, responsive support for licensed medical and aesthetic professionals.
+
+01 EXOSOMES — Cellular communication, carefully documented.
+02 STEM CELLS — Responsible sourcing meets professional guidance.
+03 PEPTIDES — Precision-focused professional formulations.
+04 MEDICAL DEVICES — Technology selected for modern practice.
+
+Gold band kicker: The MEDRIXX Standard
+Headline: Evidence over exaggeration.
+Body: In complex categories, discernment matters. We connect practices with product partners whose approach values quality systems, documented testing, and transparent education.
+
+01 SOURCING — Partners are reviewed for donor eligibility documentation, tissue traceability, and accreditation — including AABB-accredited sourcing networks and FDA-registered facilities.
+02 QUALITY — We favor manufacturers operating in classified cleanroom environments, with third-party USP <71> sterility and USP <85> endotoxin testing on every released batch.
+03 EDUCATION — Practices receive lot-level documentation, characterization summaries, and plain-language guidance — not marketing claims dressed up as data.
+04 SUPPORT — Direct, independent representation from initial evaluation through onboarding, reordering, and ongoing regulatory questions.
+
+Process kicker: Representation
+Headline: Direct support, from first question to reorder.
+01 Private consultation — Tell us what the practice is exploring. We listen first — scope, setting, and the questions that actually matter.
+02 Fit and documentation — We match disciplines to the practice and share the methods, testing, and sourcing records — not a marketing deck.
+03 Onboarding — Lot records, characterization summaries, and plain-language guidance so the team can evaluate with a clear file.
+04 Ongoing representation — Direct support for reordering, new lots, and regulatory questions. Independent — not a call center.
+
+Who we serve kicker: Who we serve
+Headline: Built for licensed practices, not the waiting room.
+Dermatology / Plastic surgery / Medical spas / Regenerative clinics
+
+Inquire kicker: Private consultation
+Headline: Let’s talk practice.
+Body: Tell us what your practice is exploring. A MEDRIXX representative will follow up with relevant professional information.
+
+Footer: Independent medical representation
+Legal: For licensed professionals. Product information is educational and not medical advice. © 2026 MEDRIXX.
+Please do not include patient information in any inquiry.
+
+EXOSOMES
+Kicker: 01 / Cellular communication
+Summary: Professional-use, topical exosome formulations manufactured under FDA-registered oversight and independently characterized by particle and proteomic analysis — selected for practices that read the methods section before the marketing.
+Notice: There are currently no FDA-approved exosome products. Represented topical cosmetic offerings are not intended to diagnose, treat, cure, or prevent disease, and are not intended for injection.
+
+STEM CELLS
+Kicker: 02 / Tissue science
+Summary: A professionally guided portfolio of human birth-tissue biomolecules, sourced exclusively from full-term, live-birth donors through AABB-accredited cord banks and processed under FDA 361 tissue-establishment standards.
+Notice: Represented products are regulated under Section 361 of the Public Health Service Act and 21 CFR Part 1271. They are not intended to diagnose, treat, cure, or prevent disease and are distributed exclusively to licensed professionals.
+
+PEPTIDES
+Kicker: 03 / Precision formulations
+Summary: A curated professional portfolio with an emphasis on transparent sourcing, quality documentation, and clear practice-level education.
+Notice: Product availability and permitted uses depend on applicable law and professional scope. MEDRIXX does not provide medical advice.
+
+MEDICAL DEVICES
+Kicker: 04 / Clinical technology
+Summary: Thoughtfully selected clinical technologies for modern practices, supported from product discovery through team education and implementation.
+Notice: Devices must be used according to their labeling, indications, and applicable professional requirements. Specific models are shared after a practice consultation.
+
+STANDARDS
+Kicker: How we vet
+Headline: The MEDRIXX Standard.
+Intro: Regenerative and cosmetic biologics have moved faster than regulation, and marketing has too often outrun the evidence. Before MEDRIXX represents a manufacturing partner to a practice, that partner has to clear a standard — not a sales pitch.
+What we will not represent:
+- Partners who cannot produce lot-level certificates of analysis
+- Tissue sources without documented donor eligibility and chain of custody
+- Claims that outrun the methods section
+- Consumer-direct biologics or anything offered outside professional channels

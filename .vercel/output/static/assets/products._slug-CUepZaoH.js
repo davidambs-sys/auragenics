@@ -1,0 +1,1 @@
+import{c as e}from"./useStore-DkUXc2QZ.js";import{S as t}from"./site-shell-ChOSDINI.js";import{n}from"./not-found-i5RsCZif.js";import{n as r,t as i}from"./index-DF03gI4j.js";var a=e();function o(){let{slug:e}=i.useParams(),o=t(e);if(!o)throw n();return(0,a.jsx)(r,{product:o})}export{o as component};

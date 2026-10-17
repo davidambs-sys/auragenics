@@ -1,0 +1,1 @@
+import{n as e,v as t}from"./index-CLbgU2eD.js";var n=t(),r=()=>(0,n.jsx)(e,{catalogKey:`device`});export{r as component};

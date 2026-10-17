@@ -1,0 +1,24 @@
+/* Paste into Webflow: Site settings → Custom Code → Head */
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Outfit:wght@300;400;500;600&display=swap");
+
+:root {
+  --mx-bg: #080808;
+  --mx-bg-2: #10100e;
+  --mx-surface: #161410;
+  --mx-ivory: #f3eee4;
+  --mx-muted: #9a9488;
+  --mx-faint: #6f6a62;
+  --mx-gold: #c9a75f;
+  --mx-gold-2: #e3c880;
+  --mx-panel: #c7a45b;
+  --mx-ink: #0c0b09;
+  --mx-line: #2c2618;
+  --mx-display: "Cormorant Garamond", Georgia, serif;
+  --mx-body: "Outfit", system-ui, sans-serif;
+}
+
+body {
+  background: var(--mx-bg);
+  color: var(--mx-ivory);
+  font-family: var(--mx-body);
+}

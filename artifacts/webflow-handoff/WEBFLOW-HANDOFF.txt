@@ -1,0 +1,92 @@
+MEDRIXX — Webflow handoff
+=========================
+
+You cannot import this Grok app into Webflow as a project.
+Webflow Designer is a visual CMS; this rebuild is a React app.
+Use this kit to recreate it in your existing medrixx.com Webflow site.
+
+PAGES TO CREATE (match the live preview)
+  /                  Home
+  /exosomes          Exosomes
+  /stem-cells        Stem Cells
+  /peptides          Peptides
+  /medical-devices   Medical Devices
+  /standards         Standards
+  /inquire           Private Consultation
+
+FONTS (Webflow > Site settings > Fonts, or Google Fonts embed)
+  Display / headlines:  Cormorant Garamond  400, 500, 600  + italic
+  Body / UI:            Outfit              300, 400, 500, 600
+
+COLORS (Webflow > Swatches)
+  Background          #080808
+  Background 2        #10100e
+  Surface             #161410
+  Ivory text          #f3eee4
+  Muted text          #9a9488
+  Faint text          #6f6a62
+  Champagne (accent)  #c9a75f
+  Champagne light     #e3c880
+  Accent on gold      #0c0b09
+  Gold panel          #c7a45b
+  Gold panel muted    #3d3118
+  Hairline            #2c2618
+
+TYPE
+  Kickers:  11px, uppercase, letter-spacing ~0.32em, color champagne
+  Hero:     Cormorant Garamond, ~clamp 3.4rem–7.4rem, line-height 0.9
+            “Selected.” is italic champagne
+  Section:  Cormorant Garamond ~44–70px
+  Body:     Outfit 16–18px, line-height 1.55, muted ivory
+
+IMAGES (upload to Webflow Assets, then bind)
+  images/medrixx-logo.png     Header logo (transparent gold wordmark)
+  images/hero-lab.jpg         Home hero
+  images/exosomes.jpg         Exosomes + portfolio tile
+  images/stem-cells.jpg       Stem cells + portfolio tile
+  images/peptides.jpg         Peptides + portfolio tile
+  images/devices.jpg          Medical devices + portfolio tile
+  images/standards.jpg        Standards hero
+  images/clinic.jpg           “Who we serve” photo
+  favicon.svg                 Favicon
+  og.jpg                      Social share card 1200×630
+
+HOME SECTIONS (top to bottom)
+  1. Sticky header: logo left, nav, gold INQUIRE button
+  2. Full-bleed hero over hero-lab.jpg, dark gradient from the left
+     Kicker: Independent Representation / Modern Medical Science
+     Title: SCIENCE, / Selected.
+     CTAs: Explore portfolio  |  Private consultation
+  3. Marquee of credentials
+  4. Portfolio: 2×2 image tiles linking to the four discipline pages
+  5. Champagne band “Evidence over exaggeration.” + four standards
+  6. Four-step representation process
+  7. Who we serve (clinic.jpg + four practice types)
+  8. Inquiry form
+  9. Footer
+
+FORM (Webflow native form, same fields as the preview)
+  Name *
+  Business email *
+  Phone
+  Practice / organization
+  Role (select)
+  State (select)
+  Primary interest * (Exosomes / Stem cells / Peptides / Medical devices / Several / Not sure)
+  What are you exploring? (do not include patient information)
+  Checkbox: licensed medical or aesthetic practice *
+  Submit → Webflow form notifications / email
+
+HOW TO BUILD IN WEBFLOW (fastest path)
+  1. Open the existing medrixx.com Webflow project.
+  2. Upload every file in /images to Assets.
+  3. Add the two Google fonts and the swatches above.
+  4. Keep your current CMS/form if it already emails you; restyle it to match.
+  5. Rebuild page by page while the Grok preview is open as the visual source.
+  6. Do not paste the React code into an Embed — it will not run.
+
+IF YOU WANT THIS VERSION LIVE WITHOUT WEBFLOW
+  Publish the Grok app instead. It is already the full site.
+  Then point medrixx.com at that host, or keep Webflow and restyle there.
+
+Copy, disclaimers, and page text match the Grok preview exactly.

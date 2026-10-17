@@ -1,0 +1,1 @@
+import{c as e}from"./useStore-DkUXc2QZ.js";import{n as t}from"./not-found-i5RsCZif.js";import{n}from"./journal-CAGJS5d_.js";import{a as r,o as i}from"./index-DF03gI4j.js";var a=e();function o(){let{slug:e}=r.useParams(),o=n(e);if(!o)throw t();return(0,a.jsx)(i,{article:o})}export{o as component};

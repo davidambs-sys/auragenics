@@ -1,0 +1,21 @@
+MEDRIXX Webflow kit
+===================
+
+Webflow cannot import this React preview as a site.
+This zip is the rebuild pack for your existing medrixx.com Webflow project.
+
+1. Unzip.
+2. In Webflow: Assets → upload everything in /images and /brand.
+3. Site settings → Fonts → add Cormorant Garamond and Outfit.
+4. Site settings → Custom Code → paste webflow-tokens.css into the Head.
+5. Rebuild pages using COPY.md (all text) and WEBFLOW-REBUILD.md (layout).
+6. Recreate the inquiry as a native Webflow form so submissions email you.
+
+Pages to keep/create:
+  /                 Home
+  /exosomes
+  /stem-cells
+  /peptides
+  /medical-devices
+  /standards
+  /inquire          (new)

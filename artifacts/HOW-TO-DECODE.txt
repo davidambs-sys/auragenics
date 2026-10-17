@@ -1,0 +1,20 @@
+AuraGenics files — Gmail will not send .zip
+
+These two .txt files are the website. Turn them into zips on a Mac:
+
+1. Put both .txt files on the Desktop
+2. Open Terminal (Spotlight: Terminal)
+3. Paste these three lines, then press Return:
+
+cd ~/Desktop
+base64 -D -i auragenics-part1-app.txt -o auragenics-part1-app.zip
+base64 -D -i auragenics-part2-images.txt -o auragenics-part2-images.zip
+
+4. Double-click both .zip files
+5. Merge them into one folder named auragenics
+6. Email that folder to the host (or send these two .txt files to the host and let them run the same commands)
+
+Node 22
+Startup file: server/index.mjs
+Start: npm start
+Not WordPress

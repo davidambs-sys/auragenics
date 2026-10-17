@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AURAGENICS | US Manufacturer of Devices, Exosomes & Peptides",
+      "hasCanvas": false,
+      "bodyTextLen": 6563,
+      "bodyTextHash": "92b5f938ea076d33e6e9906afa0a30293ed0ad83864ea6bef89665b99ee1708f",
+      "bodyTextPrefix": "Skip to content MANUFACTURER · IRVING, TEXAS (817) 719-1322 INQU",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AURAGENICS | US Manufacturer of Devices, Exosomes & Peptides",
+      "hasCanvas": false,
+      "bodyTextLen": 6271,
+      "bodyTextHash": "ad4ae3de1e8e669d35f99ae2620a6f9308e3e6b488693c5d322bf69b81841588",
+      "bodyTextPrefix": "Skip to content INQUIRE NO. 01 · AUTUMN 2026 · LABORATORY · DEVI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
